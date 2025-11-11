@@ -40,16 +40,17 @@ pip install -r requirements.txt
 python ranaora.py
 ```
 
+'''
 @misc{ranaora2025,
   author = {Ranaora, Pascal},
-  title = {The Ranaora Equation: A Wellbeing-Centric Reformulation of the Kaya Identity},
+  title = {The Ranaora-? Wellbeing Identity: A Wellbeing-Centric Reformulation of the Kaya Identity},
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub Repository},
   howpublished = {\url{https://github.com/MadaGasBit/ranaora-equation}},
   note = {Accessed: November 2025}
 }
-
+'''
 ---
 
 ## 📈 Data Sources (Example)
