@@ -2,7 +2,7 @@
 
 > **CO₂ = Population × (Wellbeing / Capita) × (kWh / Wellbeing) × (CO₂ / kWh)**  
 > *A wellbeing-centered decomposition of global carbon emissions*  
-> **Pascal Ranaora** | @MadaGasBit | November 2025
+> **Pascal Ranaora** | November 2025
 
 ---
 
